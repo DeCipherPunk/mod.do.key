@@ -1,3 +1,4 @@
+variable "do_token" {}
 variable "stack_key_name" {
   type = string
   default = "default"
